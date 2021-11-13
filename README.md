@@ -6,7 +6,7 @@
 
 - 🎓 Tecnicatura en Programacion en la UNSAM | 2020 - presente
 - 💻 Formandome como Desarrollador Frontend
-- 🚩 buscando mi primer reto laboral y capacitarme profesionalmente en el mundo IT
+- 🚩 Buscando mi primera experiencia laboral y capacitarme profesionalmente en el mundo IT
 - ℹ  22 años, de Argentina
 
 <br />
