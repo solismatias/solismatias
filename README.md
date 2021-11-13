@@ -53,10 +53,11 @@
 ### Contacto:
 
 [![mi website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](solismatias.ar)
+<br />
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solismatias/)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](solisma42@gmail.com)
-
-
+<br />
+<a href="mailto:solisma42@gmail.com?subject=Contacto GitHub&body=Hola Matias! Nos contactamos contigo por ...">![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<br />
 **Gracias por echar un vistazo!**  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=solismatias.solismatias)
 
 
