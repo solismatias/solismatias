@@ -58,8 +58,8 @@
 <a href="mailto:solisma42@gmail.com?subject=Contacto GitHub&body=Hola Matias! Nos contactamos contigo por ...">![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <br />
 ---
-#### Ver Curriculum Vitae
-[![node](https://img.shields.io/badge/CV-4eb4c9?style=for-the-badge&logo=googlesheets&logoColor=white)](https://drive.google.com/file/d/1eQqSBB7RCBCO68KuxivPmz3GtovNNI7d/view?usp=sharing)
+### Ver Curriculum Vitae
+[![curriculum](https://img.shields.io/badge/CV-4eb4c9?style=for-the-badge&logo=googlesheets&logoColor=white)](https://drive.google.com/file/d/1WuyBBFdBFL_Mrrfvac2OiF-CZ2C3eqD6/view?usp=sharing)
 
 **Gracias por echar un vistazo!**  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=solismatias.solismatias)
 
