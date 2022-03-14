@@ -60,9 +60,9 @@
 <br />
 ---
 ### Ver Curriculum Vitae
-[![curriculum](https://drive.google.com/file/d/1F6inJl_b_CD2hSHNgLpAYwJc8g9tFhAk/view)]
+[![curriculum](https://img.shields.io/badge/CV-4eb4c9?style=for-the-badge&logo=googlesheets&logoColor=white)](https://drive.google.com/file/d/1F6inJl_b_CD2hSHNgLpAYwJc8g9tFhAk/view)
 
-**Gracias por echar un vistazo!**  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=solismatias.solismatias)
+**Gracias por echar un vistazo!**
 
 
 ##  />
