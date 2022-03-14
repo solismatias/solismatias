@@ -5,9 +5,10 @@
 ### Estudiante | Frontend 
 
 - 🎓 Tecnicatura en Programacion en la UNSAM | 2020 - presente
-- 💻 Formandome como Desarrollador Frontend
+- 💻 Desarrollador Frontend
+- ⚙ Formandome como Desarrollador Fullstack
 - 🚩 Buscando mi primera experiencia laboral y capacitarme profesionalmente en el mundo IT
-- ℹ  22 años, de Argentina
+- ℹ  23 años, de Argentina
 
 <br />
 
