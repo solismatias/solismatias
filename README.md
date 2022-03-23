@@ -57,7 +57,7 @@
 <br />
 ---
 ### Ver Curriculum Vitae
-[![curriculum](https://img.shields.io/badge/CV-4eb4c9?style=for-the-badge&logo=googlesheets&logoColor=white)](https://drive.google.com/file/d/1k7UBIAkJWPPR-aAxzKn4FdEnwIQNzCDk/view)
+[![curriculum](https://img.shields.io/badge/CV-4eb4c9?style=for-the-badge&logo=googlesheets&logoColor=white)](https://drive.google.com/file/d/1py68axGbUi6L9HRxh4L51jiyFYr1W_ki/view)
 
 **Gracias por echar un vistazo!**
 
