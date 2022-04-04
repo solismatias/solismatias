@@ -2,19 +2,19 @@
 
 <!-- logos => https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-### Estudiante | Frontend 
+### Student | Frontend 
 
-- 🎓 Tecnicatura en Programacion en la UNSAM | 2020 - presente
-- 💻 Desarrollador Frontend
-- ⚙ Formandome como Desarrollador Fullstack
-- 🚩 Buscando mi primera experiencia laboral y capacitarme profesionalmente en el mundo IT
-- ℹ  23 años, de Argentina
+- 🎓 Programming Technician at Universidad Nacional de General San Martín | 2020 - presente
+- 💻 Frontend Dev
+- ⚙ Learning new things to be a FullStack Dev!
+- 🚩 Looking for my first work experience
+- ℹ  23, from Argentina
 
 <br />
 
 ---
 
-### Lenguajes y Herramientas:
+### TECH:
 
 
 
@@ -36,7 +36,7 @@
 
 ---
 
-###  Aprendiendo:
+###  Currently Learning:
   
   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -47,7 +47,7 @@
 
   
 
-### Contacto:
+### Contac:
 
 [![mi website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://solismatias.ar/)
 <br />
@@ -56,10 +56,10 @@
 <a href="mailto:solisma42@gmail.com?subject=Contacto GitHub&body=Hola Matias! Nos contactamos contigo por ...">![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <br />
 ---
-### Ver Curriculum Vitae
+### Check mi CV
 [![curriculum](https://img.shields.io/badge/CV-4eb4c9?style=for-the-badge&logo=googlesheets&logoColor=white)](https://drive.google.com/file/d/1kWr4OhfTwtPYWWQE9NGrcXgdb1ZiEhii/view)
 
-**Gracias por echar un vistazo!**
+**Thanks for visiting!**
 
 
 ##  />
