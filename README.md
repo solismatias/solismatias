@@ -7,7 +7,7 @@
 
 - 💻 Currently working as a Flutter | React developer at VelaOne
 - ⚙ Always learning new things
-- ℹ  24, from Argentina
+- ℹ  25, from Argentina
 
 <br />
 
