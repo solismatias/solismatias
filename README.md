@@ -5,25 +5,16 @@ With over 2 years of experience. I currently work full-time as a Flutter develop
 
 I have solid experience with Flutter and React, specializing in Flutter (BLoC, Dart, GraphQL) and React (TypeScript, Redux, Zustand). I focus on delivering efficient, maintainable code and strive to be someone teams and individuals can rely on.
 
-### About me
-
 -----
+### About me
 - 🕹️ Im Learing how to create games with Godot engine.
 - 👅 I speak English and Spanish (also learning Japanese 😅).
 - 📖 Interested on learning Kotlin, Swift and React Native.
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
-
-
-<br />
-
-### Contact
-
 -----
+### Contact
 - 📧 solisma.dev@gmail.com
 - ℹ️ [linkedin.com/in/solismatias](https://www.linkedin.com/in/solismatias/)
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solismatias/)
-<br />
----
+-----
 
 
