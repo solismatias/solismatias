@@ -1,20 +1,19 @@
-<h2> Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+## Hey there
 
-I'm **`Matias Solis`** an 25 y.o. Software Developer from Argentina.
-With over 2 years of experience. I currently work full-time as a Flutter developer for **`VelaONE`**, a company based in California, USA.
+I'm **Matías Solis**, a software developer from Argentina.  
+I have experience building apps with **Flutter** and **React**, with a strong focus on creating maintainable, efficient, and well-structured code.
 
-I have solid experience with Flutter and React, specializing in Flutter (BLoC, Dart, GraphQL) and React (TypeScript, Redux, Zustand). I focus on delivering efficient, maintainable code and strive to be someone teams and individuals can rely on.
+My main stack includes:
+- **Flutter** (BLoC, Dart, GraphQL)
+- **React** (TypeScript, Redux, Zustand)
 
------
+I enjoy exploring new technologies and improving my skills through side projects and open-source collaboration.
+
+---
+
 ### About me
-- 🕹️ Im Learing how to create games with Godot engine.
-- 👅 I speak English and Spanish (also learning Japanese 😅).
-- 📖 Interested on learning Kotlin, Swift and React Native.
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
------
-### Contact
-- 📧 solisma.dev@gmail.com
-- ℹ️ [linkedin.com/in/solismatias](https://www.linkedin.com/in/solismatias/)
------
+- Learning to create games with **Godot Engine**.  
+- Interested in **Kotlin**, **Swift**, and **React Native**.  
+- Always open to contributing to **open-source projects** and learning from others.
 
-
+---
